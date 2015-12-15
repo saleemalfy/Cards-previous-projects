@@ -1,0 +1,13 @@
+body {
+    background-color: #FFC77B;
+}
+
+.card {
+    background-color: #FFF0F6;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.card-img-top {
+    background-color: #D2FF3C;
+    font-family: 'Roboto Condensed', sans-serif;
+}
